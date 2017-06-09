@@ -250,3 +250,9 @@ refreshtest.log
 /temp.txt
 # Loc related temp file
 /tools/Localize/Temp
+
+# Project artifacts
+/WebApp/SampleOdataService/App_Data
+/WebApp/SampleOdataService/bin
+/WebApp/SampleOdataService/obj
+/WebApp/packages
